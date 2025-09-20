@@ -19,11 +19,13 @@
     },
     "homepage": "https://github.com/YoruAkio/GrowtopiaLogin-Backend#readme",
     "dependencies": {
-        "body-parser": "^1.20.2",
-        "compression": "^1.7.5",
-        "ejs": "^3.1.10",
-        "express": "^4.19.2",
-        "express-rate-limit": "^7.4.0",
-        "nodemon": "^3.1.7"
-    }
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "undici": "^6.11.0",
+    "nodemon": "^3.1.7",
+    "node-telegram-bot-api": "^0.61.0",
+    "axios": "latest"
+  }
 }
